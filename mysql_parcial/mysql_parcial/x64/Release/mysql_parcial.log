@@ -1,0 +1,16 @@
+﻿  Estudiante.cpp
+C:\Users\Usuario\Desktop\2022\Segundo año UMG\Programacion 1\Parciales\Parcial 2\mysql_parcial\mysql_parcial\Estudiante.h(77,14): warning C4101: 'resultado': variable local sin referencia
+C:\Users\Usuario\Desktop\2022\Segundo año UMG\Programacion 1\Parciales\Parcial 2\mysql_parcial\mysql_parcial\Estudiante.h(76,13): warning C4101: 'fila': variable local sin referencia
+C:\Users\Usuario\Desktop\2022\Segundo año UMG\Programacion 1\Parciales\Parcial 2\mysql_parcial\mysql_parcial\Estudiante.h(100,14): warning C4101: 'resultado': variable local sin referencia
+C:\Users\Usuario\Desktop\2022\Segundo año UMG\Programacion 1\Parciales\Parcial 2\mysql_parcial\mysql_parcial\Estudiante.h(99,13): warning C4101: 'fila': variable local sin referencia
+  mysql_parcial.cpp
+C:\Users\Usuario\Desktop\2022\Segundo año UMG\Programacion 1\Parciales\Parcial 2\mysql_parcial\mysql_parcial\Estudiante.h(77,14): warning C4101: 'resultado': variable local sin referencia
+C:\Users\Usuario\Desktop\2022\Segundo año UMG\Programacion 1\Parciales\Parcial 2\mysql_parcial\mysql_parcial\Estudiante.h(76,13): warning C4101: 'fila': variable local sin referencia
+C:\Users\Usuario\Desktop\2022\Segundo año UMG\Programacion 1\Parciales\Parcial 2\mysql_parcial\mysql_parcial\Estudiante.h(100,14): warning C4101: 'resultado': variable local sin referencia
+C:\Users\Usuario\Desktop\2022\Segundo año UMG\Programacion 1\Parciales\Parcial 2\mysql_parcial\mysql_parcial\Estudiante.h(99,13): warning C4101: 'fila': variable local sin referencia
+  Generando código
+  3 of 154 functions ( 1.9%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Generación de código finalizada
+  mysql_parcial.vcxproj -> C:\Users\Usuario\Desktop\2022\Segundo año UMG\Programacion 1\Parciales\Parcial 2\mysql_parcial\x64\Release\mysql_parcial.exe
